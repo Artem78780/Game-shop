@@ -1,0 +1,8 @@
+.cartBlock__icon {
+    font-size: 30px;
+    cursor: pointer;
+}
+.cartBlock__price {
+    padding-left: 15px;
+    font-size: 18px
+}
